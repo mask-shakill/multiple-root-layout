@@ -1,7 +1,7 @@
 # Next.js Multiple Root Layout Example
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Next.js_logo.svg" alt="Next.js Logo" width="100" height="100" />
+  <img src="https://img.freepik.com/free-vector/google-sitemap-concept-illustration_114360-2221.jpg?uid=R95679985&ga=GA1.1.1202012947.1734430833&semt=ais_hybrid" alt="Next.js Logo" width="100" height="100" />
   <h2>Multiple Root Layout Example</h2>
   <p>A simple example of how to implement multiple root layouts in a Next.js app.</p>
 </div>
